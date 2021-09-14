@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Create Account</title>
+<style>
+th, td {
+padding: 10px;
+text-align :center;
+}
+</style>
+</head>
+<body>
+<center>
+<h1>CREATE YOUR ACCOUNT<h1>
+<h3>This is step 1<h3>
+<form>
+<table style="width:100%">
+<tr><td>
+<input type="text" value="Email"/>
+</tr></td>
+<tr><td>
+<input type="text" value="Password"/>
+</tr></td>
+<tr><td>
+<input type="text" value="Confirm Password"/>
+</tr></td>
+<tr><td align="center">
+<input type="button" value="Next" style="background-color: green;color:white;"/>
+</tr></td>
+</form>
+<center>
+</body>
+</html>
+
